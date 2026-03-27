@@ -1,0 +1,13 @@
+{
+  "name": "mmm-sceneselector",
+  "version": "1.0.0",
+  "description": "MagicMirror module - scene selection via Hue dial, MQTT & Home Assistant",
+  "main": "node_helper.js",
+  "dependencies": {
+    "dotenv": "^16.4.0",
+    "mqtt": "^5.0.0",
+    "ws": "^8.16.0"
+  },
+  "keywords": ["MagicMirror", "module"],
+  "license": "MIT"
+}
